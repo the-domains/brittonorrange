@@ -1,0 +1,23 @@
+name: BrittonOrrange
+favicon: null
+layout_spectrum: 0.38857508613727987
+typography_spectrum: 0.4458958900067955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8125175933819264
+  lightness: 0.6988915561232716
+  saturation: 0.9984347256831825
+  rhythmicContrast: 0.9592698263004422
+purpose: []
